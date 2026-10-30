@@ -327,3 +327,24 @@ footer p {
         width: 100%;
     }
 }
+.product-card {
+    transition: 0.3s;
+}
+
+.product-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.product-details button {
+    background-color: #49372d;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.product-details button:hover {
+    background-color: #a77d54;
+}
