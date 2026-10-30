@@ -58,7 +58,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 40px;
+    gap: 30px;
     padding: 65px 8%;
     min-height: 500px;
     background-color: #eee8df;
